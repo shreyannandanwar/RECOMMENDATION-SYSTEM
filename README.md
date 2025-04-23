@@ -1,8 +1,4 @@
-### GitHub README for Sentiment Analysis Using TF-IDF & Logistic Regression
-
----
-
-# **Sentiment Analysis Using TF-IDF & Logistic Regression**
+#### **Sentiment Analysis Using TF-IDF & Logistic Regression**
 
 ![Project Banner](https://github-production-user-asset-6210df.s3.amazonaws.com/98053839/435751852-374dc3da-20e5-44d4-93d4-02aa96a2e371.png)
 
@@ -71,16 +67,16 @@ Evaluated the model using the following metrics:
 - **Accuracy Score**: Overall correctness of predictions.
 - **Confusion Matrix**: Visualized true vs. predicted classifications using `seaborn` heatmaps.
 - **Precision, Recall, F1-Score**: Provided deeper insights into model performance, especially for imbalanced datasets.
-
-![Confusion Matrix](https://github-production-user-asset-6210df.s3.amazonaws.com/98053839/435751851-1059026f-9cec-4ca6-8aa4-df89ab8db1cc.png)
-*Figure 1: Confusion Matrix*
-
-![Performance Metrics](https://github-production-user-asset-6210df.s3.amazonaws.com/98053839/435751852-374dc3da-20e5-44d4-93d4-02aa96a2e371.png)
-*Figure 2: Performance Metrics*
+![Image](https://github.com/user-attachments/assets/3add54f5-7c1b-4243-a536-93e5fcfe1f4a)
+![Image](https://github.com/user-attachments/assets/2d487512-21e9-4a75-88bc-988b0b5fb282)
+![Image](https://github.com/user-attachments/assets/5cbf82f7-81d7-482c-a013-95b0691435c3)
+![Image](https://github.com/user-attachments/assets/7479a893-84e5-46d0-81c8-489510251bef)
 
 ---
 
 ## **5. Outputs**
+![Image](https://github.com/user-attachments/assets/437eef82-0f5c-47a7-8d11-93a3824b9ef3)
+![Image](https://github.com/user-attachments/assets/af1fc89a-dfa4-4afc-9501-b67c780b8066)
 
 ### **Confusion Matrix**
 The confusion matrix provides a summary of prediction results, showing the number of correct and incorrect predictions for each class.
@@ -138,13 +134,3 @@ For any questions or feedback, feel free to reach out:
 5. **Professional Tone**: Maintains a formal yet approachable style suitable for GitHub audiences.
 
 ---
-
-Feel free to clone, fork, or contribute to this project!
-
-Outpput:
-![Image](https://github.com/user-attachments/assets/af1fc89a-dfa4-4afc-9501-b67c780b8066)
-![Image](https://github.com/user-attachments/assets/437eef82-0f5c-47a7-8d11-93a3824b9ef3)
-![Image](https://github.com/user-attachments/assets/2d487512-21e9-4a75-88bc-988b0b5fb282)
-![Image](https://github.com/user-attachments/assets/5cbf82f7-81d7-482c-a013-95b0691435c3)
-![Image](https://github.com/user-attachments/assets/7479a893-84e5-46d0-81c8-489510251bef)
-![Image](https://github.com/user-attachments/assets/3add54f5-7c1b-4243-a536-93e5fcfe1f4a)
