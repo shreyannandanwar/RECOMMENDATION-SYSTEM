@@ -1,6 +1,5 @@
 #### **Sentiment Analysis Using TF-IDF & Logistic Regression**
 
-![Project Banner](https://github-production-user-asset-6210df.s3.amazonaws.com/98053839/435751852-374dc3da-20e5-44d4-93d4-02aa96a2e371.png)
 
 ## **1. Project Overview**
 
@@ -14,7 +13,7 @@ This project aims to build a **sentiment analysis model** that classifies custom
 
 ---
 
-## **2. Tools, Platform, and Environment**
+## 🧰**2. Tools, Platform, and Environment**
 
 ### **Development Setup:**
 - **Editor**: [Jupyter Notebook](https://jupyter.org/) - For interactive coding and visualization.
@@ -28,7 +27,7 @@ This project aims to build a **sentiment analysis model** that classifies custom
 
 ---
 
-## **3. Dataset**
+## 📁**3. Dataset**
 
 ### **Source:**
 - Downloaded from [Kaggle](https://www.kaggle.com/datasets).
@@ -44,7 +43,7 @@ This project aims to build a **sentiment analysis model** that classifies custom
 
 ---
 
-## **4. Project Workflow**
+## 🚀**4. Project Workflow**
 
 ### **1. Data Preprocessing**
 Raw text data requires cleaning before it can be used for machine learning. The following steps were performed:
